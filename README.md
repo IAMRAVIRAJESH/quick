@@ -15,9 +15,9 @@ A Node.js service for Expense Management.
 - PostgreSQL with Sequelize ORM
 
 ## Deployment
-- This project is deployed on render. 
-  Frontend URL - https://quick-frontend.onrender.com/
-  Backend URL - https://quick-3tnm.onrender.com/api/health
+- This project is deployed on render and sometime takes time to open due to default server idle configuration of render, to view the website just click on both links and wait for a minute so render will spin both the builds and you can access the app. Thank you for your co-operation and       patience.
+- Frontend URL - https://quick-frontend.onrender.com/
+- Backend URL - https://quick-3tnm.onrender.com/api/health
 
 ## API Endpoints
 - POST BASE_URL/ → to add a new expense 
