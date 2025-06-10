@@ -1,6 +1,6 @@
 # Expense Management
 
-A Node.js service for Expense Management.
+A MERN stack web app for Expense Management.
 
 ## Features included
 
@@ -9,9 +9,9 @@ A Node.js service for Expense Management.
 
 ## Tech Stacks used
 
-- Node.js (>=18)
+- Node.JS (>=18)
 - JavaScript
-- Express.js
+- Express.JS
 - PostgreSQL with Sequelize ORM
 
 ## Deployment
@@ -25,4 +25,4 @@ A Node.js service for Expense Management.
 - GET BASE_URL/analytics → to get analysis of all expenses.
 
 # API testing
-- For testing the APIs you can use the deployed link attached in the mail.
+- For testing the APIs you can use the deployed link attached in the Deployment section.
